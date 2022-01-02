@@ -14,9 +14,5 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  },
-  "dependencies": {
-    "apollo-boost": "^0.4.9",
-    "graphql": "^16.2.0"
   }
 }
