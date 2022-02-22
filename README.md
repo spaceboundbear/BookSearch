@@ -11,14 +11,16 @@
   5.[Testing Info](#testing)</br>
   6.[License Info](#license)</br>
   7.[Questions](#questions)</br>  
+  
+  [Link to Deployed App](https://book-search-utsa.herokuapp.com/)
 
 
   # <span id="desc"></span>
   # Project Description: 
-  This project allows a User to search, find and save books to a list
+  This allows a User to search, find and save books to a list
   # <span id="installation"></span>
   # PreRequisites and Install Info:
-  npm install
+  Run npm install after forking repo
   # <span id="usage"></span>
   # Usage:
   Anyone who loves to read, or wants to keep track of books they would like
@@ -27,7 +29,7 @@
   Michael Fischer
   # <span id="testing"></span>
   # Testing Info: 
-  Nodemon
+  Nodemon, Chrome Dev Tools
   # <span id="license"></span>
   # License:
   MIT
